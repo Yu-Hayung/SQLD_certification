@@ -3,6 +3,7 @@
 ---
 
  SQLD 자격 취득을 위한 기록 
+ 
 https://velog.io/@yuhayung7296/series/SQLD
 
 ---
